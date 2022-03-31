@@ -1,0 +1,34 @@
+{
+  "identifier": "com.djd.bobplugin-add-card",
+  "version": "1.0.0",
+  "category": "translate",
+  "name": "多拣蛋",
+  "summary": "添加卡片到多拣蛋小程序",
+  "icon": "",
+  "author": "多拣蛋",
+  "homepage": "https://github.com/duo-jian-dan/bobplugin-add-card",
+  "appcast": "https://github.com/duo-jian-dan/bobplugin-add-card/blob/master/appcast.json",
+  "minBobVersion": "0.5.4",
+  "options": [
+    {
+      "identifier": "token",
+      "type": "text",
+      "title": "Token"
+    },
+    {
+      "identifier": "bookName",
+      "type": "text",
+      "title": "学习集名称"
+    },
+    {
+      "identifier": "addFlag",
+      "type": "text",
+      "title": "添加标志"
+    },
+    {
+      "identifier": "splitFlag",
+      "type": "text",
+      "title": "分割标志"
+    }
+  ]
+}
