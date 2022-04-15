@@ -7,7 +7,7 @@
   "icon": "",
   "author": "多拣蛋",
   "homepage": "https://github.com/duo-jian-dan/bobplugin-add-card",
-  "appcast": "https://github.com/duo-jian-dan/bobplugin-add-card/blob/master/appcast.json",
+  "appcast": "https://raw.githubusercontent.com/duo-jian-dan/bobplugin-add-card/master/appcast.json",
   "minBobVersion": "0.5.4",
   "options": [
     {
