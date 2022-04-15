@@ -3,9 +3,16 @@
   "versions": [
     {
       "version": "1.0.1",
-      "desc": "https://github.com/duo-jian-dan/bobplugin-add-card/releases/tag/1.0.1",
+      "desc": "Fix endFlag replace error",
       "sha256": "7bae5c892a4d7eec0aa877c582729bd9a0f93b7b752bcb3cec657fe5c4e8bc5c",
       "url": "https://github.com/duo-jian-dan/bobplugin-add-card/releases/download/1.0.1/bobplugin-add-card.bobplugin",
+      "minBobVersion": "0.5.4"
+    },
+    {
+      "version": "1.0.0",
+      "desc": "初始版本",
+      "sha256": "14ee6691a19977ad9f596260beada253d11b7e91aca8594feb26b41f95050ab8",
+      "url": "https://github.com/duo-jian-dan/bobplugin-add-card/releases/download/1.0.0/bobplugin-add-card.bobplugin",
       "minBobVersion": "0.5.4"
     }
   ]
