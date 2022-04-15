@@ -1,6 +1,6 @@
 {
   "identifier": "com.djd.bobplugin-add-card",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "translate",
   "name": "多拣蛋",
   "summary": "添加卡片到多拣蛋小程序",

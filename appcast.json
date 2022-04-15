@@ -2,10 +2,10 @@
   "identifier": "com.djd.bobplugin_add_card",
   "versions": [
     {
-      "version": "1.0.0",
-      "desc": "https://github.com/duo-jian-dan/bobplugin-add-card/releases/tag/1.0.0",
-      "sha256": "14ee6691a19977ad9f596260beada253d11b7e91aca8594feb26b41f95050ab8",
-      "url": "https://github.com/duo-jian-dan/bobplugin-add-card/releases/download/1.0.0/bobplugin-add-card.bobplugin",
+      "version": "1.0.1",
+      "desc": "https://github.com/duo-jian-dan/bobplugin-add-card/releases/tag/1.0.1",
+      "sha256": "949c08abee31276139d18b7c7164069c0cb7dedf0657592e4ac9dbc8bd3384d6",
+      "url": "https://github.com/duo-jian-dan/bobplugin-add-card/releases/download/1.0.1/bobplugin-add-card.bobplugin",
       "minBobVersion": "0.5.4"
     }
   ]

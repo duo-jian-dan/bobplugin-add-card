@@ -11,7 +11,7 @@
 ## 安装
 
 1. 安装 [Bob](https://github.com/ripperhe/Bob)；
-2. 下载插件 [bobplugin_add_card.bobplugin](https://github.com/duo-jian-dan/bobplugin-add-card/releases/download/1.0.0/bobplugin-add-card.bobplugin)，双击安装；
+2. 下载插件 [bobplugin_add_card.bobplugin](https://github.com/duo-jian-dan/bobplugin-add-card/releases/download/1.0.1/bobplugin-add-card.bobplugin)，双击安装；
 3. 根据下面文档，进行初始化设置；
 
 ## Bob 设置

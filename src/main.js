@@ -156,13 +156,16 @@ function translate(query, completion) {
         completion({'error': buildError('「Token」缺失')});
         return;
     }
+    if (addFlag) {
+        if (!text.endsWith(addFlag)) {
+            completion({'result': buildResult("未检测到添加标志："+addFlag)});
+            return;
+        }
 
-    if (addFlag && !text.endsWith(addFlag)) {
-        completion({'result': buildResult("未检测到添加标志："+addFlag)});
-        return;
+        text = text.slice(0, -(addFlag.length))
     }
 
-    var front = text.replace(addFlag, '')
+    var front = text
     var back = ''
     if (splitFlag) {
         let textArr = front.split(splitFlag)
