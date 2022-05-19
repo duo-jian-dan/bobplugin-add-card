@@ -28,7 +28,7 @@
 
 ![](./images/3.png)
 
-1. Token。在「多拣蛋微信小程序 - 我的 - 开放平台」的中获取。
+1. Token。在「[多拣蛋 PC 平台](https://djd.eleduck.com) - 划词录入」中获取。
 
 ![](./images/4.png)
 
